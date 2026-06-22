@@ -13,18 +13,18 @@
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  
-  <br><br>
+
+  <br>
   <h3>Discord Status</h3>
   <!-- Lanyard Card yang stabil -->
   <a href="https://discord.com/users/776859682160508948">
       <img src="https://discord.c99.nl/widget/theme-2/776859682160508948.png" alt="Discord Profile Card" />
   </a><br>
-  You can reach me here:<br><br>
-  <a href="mailto:gibranfirdaus40@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/athallah_dzaki" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+You can reach me here:<br><br>
+<a href="mailto:gibranfirdaus40@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/6285847313527" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </div>
