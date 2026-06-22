@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**BngWiro/BngWiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Status Discord Saya</h3>
+  <!-- Widget status real-time -->
+  <a href="https://discord.com/users/776859682160508948">
+    <img src="https://api.lanyard.rest/v1/users/776859682160508948/badge.svg" alt="Discord Status" />
+  </a>
+  <br><br>
+  <!-- Widget kartu profil (lebih besar) -->
+  <img src="https://discord.c99.nl/widget/theme-2/776859682160508948.png" alt="Discord Profile Card" />
+</div>
