@@ -1,6 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Athallah%20Dzaki&description=Hy%20There,%20i%27m%20Full%20Stack%20Developer%20and%20i%27m%2020%21y.o.%20%20Have%20a%20Nice%20Day%20With%20my%20All%20My%20Repository%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/44716687&pattern=topography&colorPattern=%23eaeaea&opacity=0.5&site=https://athallahdzaki.my.id&instagram=athallah_dzaki&github=AthallahDzaki&backgroundColor=%23000000&&fontColor=%23ffffff&iconColor=%23e64a19&linkedin=athallah-dzaki)
-
-
+![My card name](https://cardivo.vercel.app/api?name=M.GIBRAN%20FIRDAUS&description=Hy%20There,%20i%27m%20Full%20Stack%20Developer%20and%20i%27m%2020%21y.o.%20%20Have%20a%20Nice%20Day%20With%20my%20All%20My%20Repository%20%F0%9F%98%8A&image=https://avatars.githubusercontent.com/u/88825994&pattern=topography&colorPattern=%23eaeaea&opacity=0.5&site=https://gbrndev.my.id&instagram=bayyott_&github=BngWiro&backgroundColor=%23000000&&fontColor=%23ffffff&iconColor=%23e64a19)
 <div align="center">
   <h3>My Programming Language</h3>
   <br>
@@ -21,5 +19,12 @@
   <!-- Lanyard Card yang stabil -->
   <a href="https://discord.com/users/776859682160508948">
       <img src="https://discord.c99.nl/widget/theme-2/776859682160508948.png" alt="Discord Profile Card" />
+  </a><br>
+  You can reach me here:<br><br>
+  <a href="mailto:gibranfirdaus40@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/athallah_dzaki" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
