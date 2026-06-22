@@ -1,1 +1,3 @@
-[![Discord Status](https://lanyard.cnrad.dev/api/776859682160508948)](https://discord.com/users/776859682160508948)
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/776859682160508948.png" alt="Discord Profile Card" />
+</div>
