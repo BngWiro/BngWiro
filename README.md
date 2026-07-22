@@ -32,6 +32,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visual%20studio%20code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
   <br>
   <h3>Discord Status</h3>
